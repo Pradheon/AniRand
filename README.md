@@ -4,7 +4,7 @@
 TBA
 
 ### Version
-TBA
+v0.1
 
 ## Links
 - [Swift](<https://www.swift.org/> "Swift")
